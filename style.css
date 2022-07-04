@@ -45,9 +45,19 @@ h2{
     margin-right: 5%;
     box-shadow: 10px 10px 40px gray;
     border-radius: 10px;
+   
 }
 .experience{
     background-image: url(images/exp-bg.png);
     background-repeat: no-repeat;
     background-position: left;
+}
+#mugdho{
+    border-left: 7px solid tomato;
+}
+#Sumet{
+    border-left: 7px solid blue;
+}
+footer{
+    text-align: center;
 }
